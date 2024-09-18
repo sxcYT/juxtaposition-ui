@@ -31,7 +31,7 @@
     "express-rate-limit": "^6.7.0",
     "fs-extra": "^9.0.1",
     "hashmap": "^2.4.0",
-    "image-pixels": "^1.1.1",
+    "image-pixels": "^2.2.2",
     "memory-cache": "^0.2.0",
     "moment": "^2.29.1",
     "mongoose": "^6.0.13",
@@ -44,9 +44,9 @@
     "pako": "^2.0.2",
     "pngjs": "^6.0.0",
     "pretendo-grpc": "github:PretendoNetwork/grpc-ts",
-    "sharp": "^0.31.3",
+    "sharp": "^0.33.5",
     "tga": "^1.0.4",
-    "xml2js": "^0.4.23",
+    "xml2js": "^0.6.2",
     "xmlbuilder2": "^3.0.2"
   },
   "devDependencies": {
